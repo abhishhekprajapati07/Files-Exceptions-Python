@@ -1,0 +1,2 @@
+User entered: 25
+This line is appended to the file.
